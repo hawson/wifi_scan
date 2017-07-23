@@ -6,7 +6,7 @@ import re
 import subprocess
 import logging as log
 
-LOG_LEVEL=10
+LOG_LEVEL=1000
 
 log.basicConfig(format='%(asctime)-15s [%(levelname)s] %(message)s', level=LOG_LEVEL) 
 
