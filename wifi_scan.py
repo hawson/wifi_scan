@@ -102,7 +102,6 @@ def get_max_widths(networks):
                 
 
 def print_header(widths):
-    print(widths)
     
     #field_order = [ 'essid', 'enc', 'signal', 'quality', 'freq', 'channel']
     print("Enc  dB Freq   Ch ESSID               ")
